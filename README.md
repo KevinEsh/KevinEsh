@@ -19,4 +19,4 @@
   
 [![Kevin's github stats](https://github-readme-stats.vercel.app/api?username=KevinEsh&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Kevin Esh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KevinEsh)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinEsh&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
