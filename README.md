@@ -12,3 +12,5 @@
   - :dart: [Projects](https://khuyentran1401.github.io/)
   
 [![Kevin's github stats](https://github-readme-stats.vercel.app/api?username=KevinEsh&count_private=true&show_icons=true&theme=tokyonight&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+
+## [![Mizux's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinEsh&count_private=true&layout=compact&theme=dark&hide_title=true)](https://github.com/KevinEsh)
