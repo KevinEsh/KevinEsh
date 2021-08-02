@@ -1,7 +1,7 @@
 # About Me 
 Hi there. I'm Kevin 👋
 
-## Stats on Github
+## Stats on GitHub
 [![Kevin's github stats](https://github-readme-stats.vercel.app/api?username=KevinEsh&count_private=true&show_icons=true&theme=tokyonight&hide_rank=false)](https://github.com/KevinEsh)
 
 ## Programming languages distribution
